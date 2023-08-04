@@ -1,5 +1,4 @@
 #EXTM3U
-
-#EXTINF:111, MSV - MSV radio
-#EXTVLCOPT:http-referrer=http://southradios.com/
-http://psrlive2.listenon.in/msv?station=mellisaimannarradio&cb=1691125230
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fromserver.ip.tv/channel/
+https://peer2.fakeip.tv/iptv/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDE5IDQ6MTU6NTEgUE0maGFzaF92YWx1ZT1uWE05cFRmYWNweTNFOUFIVHZYd3JnPT0mdmFsaW
