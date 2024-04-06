@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:111, MSV - MSV radio
-#EXTVLCOPT:http-referrer=https://www.tamilradios.com/
-https://psrlive2.listenon.in/msv?station=mellisaimannarradio&cb=1691905571
+#EXT-X-STREAM-INF:PROGRAM-ID=1
+http://streamer.abc.com:8080/videos/arvind1.mp4
+#EXT-X-ENDLIST
